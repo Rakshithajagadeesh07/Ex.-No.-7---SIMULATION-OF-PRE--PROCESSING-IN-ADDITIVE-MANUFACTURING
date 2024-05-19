@@ -45,6 +45,8 @@
 
 ## Output:
 ![Output](https://github.com/Rakshithajagadeesh07/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147081797/43c63b23-4649-490a-98d7-a94f17fcc4d5)
+![Screenshot 2024-05-19 145757](https://github.com/Rakshithajagadeesh07/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147081797/68667027-11ec-496d-bae9-296987924a0c)
+
 
 ### Name: Rakshitha J 
 ### Register Number: 212223240135
